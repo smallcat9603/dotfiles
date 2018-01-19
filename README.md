@@ -32,6 +32,11 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * node
 * cmake
 * rmtrash
+#### install oh-my-zsh and configure
+* sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+* [zshrc.conf](https://github.com/smallcat9603/dotfiles/tree/master/zsh) replaces ~/.zshrc (cp zsh/zshrc.conf ~/.zshrc)
+* [smallcat.zsh-theme](https://github.com/smallcat9603/dotfiles/tree/master/zsh) put into ~/.oh-my-zsh/themes/ (cp zsh/smallcat.zsh-theme ~/.oh-my-zsh/themes/)
+* source ~/.zshrc
 ### Writing
 * Typora: https://typora.io
 * MacTeX: http://tug.org/mactex/mactex-download.html
@@ -41,11 +46,10 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * The Unarchiver: AppStore
 * Wunderlist: AppStore
 * iStatu Menu 6: https://bjango.com/mac/istatmenus/
-(Email: 982092332@qq.com 
+(Email: 982092332@qq.com SN: GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TGH3S-8SGA)
 * LICEcap: https://www.cockos.com/licecap/
 * Snip: AppStore
 * Sparkle: AppStore
-SN: GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TGH3S-8SGA)
 * Alfred: https://www.alfredapp.com
 ### Office
 * https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
