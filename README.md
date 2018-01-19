@@ -32,11 +32,17 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * node
 * cmake
 * rmtrash
+* reattach-to-user-namespace
 #### install oh-my-zsh and configure
 * sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
-* [zshrc.conf](https://github.com/smallcat9603/dotfiles/tree/master/zsh) replaces ~/.zshrc (cp zsh/zshrc.conf ~/.zshrc)
+* [zshrc.conf](https://github.com/smallcat9603/dotfiles/tree/master/zsh) replaces ~/.zshrc (cp ~/.zshrc ~/.zshrc.bak; cp zsh/zshrc.conf ~/.zshrc)
 * [smallcat.zsh-theme](https://github.com/smallcat9603/dotfiles/tree/master/zsh) put into ~/.oh-my-zsh/themes/ (cp zsh/smallcat.zsh-theme ~/.oh-my-zsh/themes/)
 * source ~/.zshrc
+#### configure tmux
+* cd
+* git clone https://github.com/gpakosz/.tmux.git
+* ln -s -f .tmux/.tmux.conf
+* [tmux.local.conf](https://github.com/smallcat9603/dotfiles/tree/master/tmux) put and renamed to ~/.tmux.conf.local (cp tmux/tmux.local.conf ~/.tmux.conf.local)
 ### Writing
 * Typora: https://typora.io
 * MacTeX: http://tug.org/mactex/mactex-download.html
