@@ -35,6 +35,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * reattach-to-user-namespace
 #### install oh-my-zsh and configure
 * sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+*or*
+* sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 * [zshrc.conf](https://github.com/smallcat9603/dotfiles/tree/master/zsh) replaces ~/.zshrc (cp ~/.zshrc ~/.zshrc.bak; cp zsh/zshrc.conf ~/.zshrc)
 * [smallcat.zsh-theme](https://github.com/smallcat9603/dotfiles/tree/master/zsh) put into ~/.oh-my-zsh/themes/ (cp zsh/smallcat.zsh-theme ~/.oh-my-zsh/themes/)
 * source ~/.zshrc
