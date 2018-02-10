@@ -22,17 +22,18 @@ This repo contains my personal **macOS** system dotfiles and settings.
 ### Environment
 * brew: https://brew.sh
 * brew tap homebrew/science
-* youtube-dl
-* pandoc
-* pdf2htmlex
-* tree
-* wget
-* tmux
-* macvim
-* node
-* cmake
-* rmtrash
-* reattach-to-user-namespace
+* brew install youtube-dl
+* brew install pandoc
+* brew install pdf2htmlex
+* brew install tree
+* brew install wget
+* brew install tmux
+* brew install macvim
+* brew install node
+* brew install cmake
+* brew install rmtrash
+* brew install reattach-to-user-namespace
+* brew install gawk
 #### install oh-my-zsh and configure
 * sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 *or*
