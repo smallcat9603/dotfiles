@@ -60,6 +60,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Snip: AppStore
 * Sparkle: AppStore
 * Alfred: https://www.alfredapp.com
+* Parallel Desktop 13.3: http://macdrug.com/download-mac-parallels-desktop-11-full-version-free1/
 ### Office
 * https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
 ### Photo/Video
