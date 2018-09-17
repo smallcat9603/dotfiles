@@ -13,3 +13,5 @@ This repo contains my personal **windows** system setups and settings.
 * Ubuntu subsystem: Microsoft Store
 * Java SDK: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 * Eclipse: https://www.eclipse.org/downloads/
+### Research
+* Mendeley: https://www.mendeley.com/download-desktop/
