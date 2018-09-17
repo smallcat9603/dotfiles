@@ -8,5 +8,6 @@ This repo contains my personal **windows** system setups and settings.
 * GitHub Desktop: https://desktop.github.com/
 * Visual Studio Code: https://code.visualstudio.com/download 
 * Notepad++: https://notepad-plus-plus.org/ (ComparePlugin)
+* WinRAR: http://www.winrar.com.cn/
 ### Development
 * Ubuntu subsystem: Microsoft Store
