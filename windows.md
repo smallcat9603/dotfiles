@@ -15,3 +15,5 @@ This repo contains my personal **windows** system setups and settings.
 * Eclipse: https://www.eclipse.org/downloads/
 ### Research
 * Mendeley: https://www.mendeley.com/download-desktop/
+* TeX Live: http://tug.org/texlive/
+* TeXstudio: http://texstudio.sourceforge.net/
