@@ -18,3 +18,4 @@ This repo contains my personal **windows** system setups and settings.
 * Mendeley: https://www.mendeley.com/download-desktop/
 * TeX Live: http://tug.org/texlive/
 * TeXstudio: http://texstudio.sourceforge.net/
+* WinSCP: https://sourceforge.net/projects/winscp/
