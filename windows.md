@@ -16,7 +16,8 @@ This repo contains my personal **windows** system setups and settings.
 * JAVA_HOME: C:\Program Files\Java\jdk1.8.0_60
 * PATH: %JAVA_HOME%\bin
 * Eclipse: https://www.eclipse.org/downloads/
-* Docker: https://store.docker.com/editions/community/docker-ce-desktop-windows
+* Docker: https://store.docker.com/editions/community/docker-ce-desktop-windows (for win10 pro)
+* Docker Toolbox: https://docs.docker.com/toolbox/overview/ (for win10 home)
 ### Research
 * Mendeley: https://www.mendeley.com/download-desktop/
 * TeX Live: http://tug.org/texlive/
