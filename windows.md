@@ -7,7 +7,6 @@ This repo contains my personal **windows** system setups and settings.
 * Google Drive: https://www.google.com/intl/ja_ALL/drive/
 * Notepad++: https://notepad-plus-plus.org/ (ComparePlugin)
 * WinRAR: http://www.winrar.com.cn/
-* EasyMail for Gmail: Microsoft Store
 ### Development
 * GitHub Desktop: https://desktop.github.com/
 * Visual Studio Code: https://code.visualstudio.com/download 
