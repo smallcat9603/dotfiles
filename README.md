@@ -65,6 +65,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Parallel Desktop 13.3: http://macdrug.com/download-mac-parallels-desktop-11-full-version-free1/
 * FileZilla: https://filezilla-project.org/index.php
 * Disk Speed Test: AppStore
+* BitTorrent: https://www.bittorrent.com/lang/ja/bittorrent-free
 ### Office
 * https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
 ### Photo/Video
