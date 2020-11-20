@@ -5,6 +5,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Dropbox: https://www.dropbox.com/install
 * Google Drive: https://www.google.com/intl/ja_ALL/drive/
 * OneDrive: https://account.microsoft.com/services/ or AppStore
+* MEGA: https://mega.nz
 * Chrome: https://www.google.com/chrome/index.html
 * Eudict: http://www.eudic.net/eudic/mac_dictionary.aspx
 * Grammarly: https://www.grammarly.com/native/mac
