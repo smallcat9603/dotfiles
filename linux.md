@@ -15,6 +15,15 @@ apt install sudo
 apt install vim
 apt install ssh
 apt install libmpich-dev
+apt install automake
+apt install cmake
+apt install libboost-dev
+apt install openjdk-11-jdk
+apt install libxslt-dev
+apt install libevent-dev
+apt install libunwind-dev
+apt install libdw-dev
+apt install libboost-context-dev
 ```
 
 # settings
