@@ -14,6 +14,7 @@ passwd smallcat
 apt install sudo
 apt install vim
 apt install ssh
+apt install libmpich-dev
 ```
 
 # settings
