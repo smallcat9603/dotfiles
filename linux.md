@@ -27,6 +27,11 @@ apt install libboost-context-dev
 apt install doxygen
 apt install pajeng
 apt install vite
+apt install youtube-dl
+apt install pandoc
+apt install tree
+apt install tmux
+apt install gawk
 ```
 
 # settings
