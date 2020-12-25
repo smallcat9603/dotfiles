@@ -21,7 +21,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * GitHub Desktop: https://desktop.github.com/
 * VSCode: https://code.visualstudio.com
 * Dash: https://kapeli.com/dash
-* docker: https://store.docker.com/editions/community/docker-ce-desktop-mac
+* Docker: https://store.docker.com/editions/community/docker-ce-desktop-mac
+* Anaconda: https://www.anaconda.com/products/individual
 ### Environment
 * brew: https://brew.sh
 * brew tap homebrew/science
