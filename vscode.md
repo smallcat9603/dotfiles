@@ -4,3 +4,4 @@ This repo contains my personal installed extensions in **vscode**.
 * hexdump for VSCode
 * Docker
 * C/C++
+* Python
