@@ -32,6 +32,12 @@ apt install pandoc
 apt install tree
 apt install tmux
 apt install gawk
+apt install r-base
+apt install r-cran-devtools
+apt install flex
+apt install bison
+apt install git
+Rscript -e "library(devtools); install_github('schnorr/pajengr');"
 ```
 
 # settings
