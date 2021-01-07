@@ -71,6 +71,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 ### Office
 * https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
 ### Photo/Video
-* Lightroom: http://blog.csdn.net/u011263484/article/details/51204312
-* Final Cut Pro X: https://www.youtube.com/watch?v=9nZaCzsFKz0
+* Lightroom: https://www.youtube.com/watch?v=et9WOAdVvco&t=47s
+* Final Cut Pro X: https://www.youtube.com/watch?v=qlGU63ETPeA
+* Photoshop: https://www.youtube.com/watch?v=VjGQ3-5Kork
 * Compressor: https://macupload.net/3ow
