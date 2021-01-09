@@ -9,6 +9,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Chrome: https://www.google.com/chrome/index.html
 * Eudict: http://www.eudic.net/eudic/mac_dictionary.aspx
 * Grammarly: https://www.grammarly.com/native/mac
+* Bartender 4: https://www.macbartender.com/
 ### IM
 * QQ: AppStore
 * WeChat: AppStore
