@@ -41,6 +41,7 @@ Rscript -e "library(devtools); install_github('schnorr/pajengr');"
 apt install python3-pip
 pip3 install pandas
 pip3 install networkx
+apt install curl
 ```
 
 # settings
