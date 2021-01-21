@@ -10,6 +10,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Eudict: http://www.eudic.net/eudic/mac_dictionary.aspx
 * Grammarly: https://www.grammarly.com/native/mac
 * Bartender 4: https://www.macbartender.com/
+* Amphetamine: AppStore
 ### IM
 * QQ: AppStore
 * WeChat: AppStore
