@@ -7,10 +7,6 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * OneDrive: https://account.microsoft.com/services/ or AppStore
 * MEGA: https://mega.nz
 * Chrome: https://www.google.com/chrome/index.html
-* Eudict: http://www.eudic.net/eudic/mac_dictionary.aspx
-* Grammarly: https://www.grammarly.com/native/mac
-* Bartender 4: https://www.macbartender.com/
-* Amphetamine: AppStore
 ### IM
 * QQ: AppStore
 * WeChat: AppStore
@@ -25,6 +21,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Dash: https://kapeli.com/dash
 * Docker: https://store.docker.com/editions/community/docker-ce-desktop-mac
 * Anaconda: https://www.anaconda.com/products/individual
+* Amphetamine: AppStore
 ### Environment
 * brew: https://brew.sh
 * brew tap homebrew/science
@@ -57,6 +54,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * MacTeX: http://tug.org/mactex/mactex-download.html
 * Mendeley: https://www.mendeley.com/download-mendeley-desktop/
 * Beyond Compare: https://www.scootersoftware.com/
+* Grammarly: https://www.grammarly.com/native/mac
+* Eudict: http://www.eudic.net/eudic/mac_dictionary.aspx
 ### Utils
 * The Unarchiver: AppStore
 * Wunderlist: AppStore
@@ -70,6 +69,9 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * FileZilla: https://filezilla-project.org/index.php
 * Disk Speed Test: AppStore
 * BitTorrent: https://www.bittorrent.com/lang/ja/bittorrent-free
+* Bartender 4: https://www.macbartender.com/
+* iMobie M1 App Checker: https://www.imobie.jp/m1-app-checker/
+* Text Scanner: AppStore
 ### Office
 * https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
 ### Photo/Video
