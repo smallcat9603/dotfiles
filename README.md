@@ -22,6 +22,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Docker: https://store.docker.com/editions/community/docker-ce-desktop-mac
 * Anaconda: https://www.anaconda.com/products/individual
 * Amphetamine: AppStore
+* Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 ### Environment
 * brew: https://brew.sh
 * brew tap homebrew/science
