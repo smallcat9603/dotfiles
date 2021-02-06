@@ -6,3 +6,4 @@ This repo contains my personal installed extensions in **vscode**.
 * C/C++
 * Python
 * Markmap
+* Draw.io Integration
