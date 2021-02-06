@@ -5,3 +5,4 @@ This repo contains my personal installed extensions in **vscode**.
 * Docker
 * C/C++
 * Python
+* Markmap
