@@ -7,3 +7,4 @@ This repo contains my personal installed extensions in **vscode**.
 * Python
 * Markmap
 * Draw.io Integration
+* PlantUML
