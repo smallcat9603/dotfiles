@@ -7,4 +7,4 @@ This repo contains my personal installed extensions in **vscode**.
 * Python
 * Markmap (open .mm.md)
 * Draw.io Integration (mermaid supported, plantuml not supported)
-* PlantUML (by default PDF generation is not enabled, so use eps instead. ref: https://plantuml.com/ja/pdf)
+* PlantUML (by default PDF generation is not enabled, so use eps instead. preview: option+d, output: command+shift+p. ref: https://plantuml.com/ja/pdf)
