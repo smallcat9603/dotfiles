@@ -5,6 +5,6 @@ This repo contains my personal installed extensions in **vscode**.
 * Docker
 * C/C++
 * Python
-* Markmap
-* Draw.io Integration
-* PlantUML
+* Markmap (open .mm.md)
+* Draw.io Integration (mermaid supported, plantuml not supported)
+* PlantUML (by default PDF generation is not enabled, so use eps instead. ref: https://plantuml.com/ja/pdf)
