@@ -24,10 +24,10 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Amphetamine: AppStore
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 ### Environment
-* brew: https://brew.sh
-* brew tap homebrew/science
+* brew: https://brew.sh (add `export PATH=$PATH:/opt/homebrew/bin` to ~/.zshrc, and `source ~/.zshrc`)
+* ~~brew tap homebrew/science~~
 * brew install youtube-dl
-* brew install pandoc
+* brew install pandoc **(Error: pandoc: no bottle available!)**
 * brew install pdf2htmlex
 * brew install tree
 * brew install wget
@@ -35,7 +35,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * brew install macvim
 * brew install node
 * brew install cmake
-* brew install rmtrash
+* brew install rmtrash **(Error: No similarly named formulae found.)**
 * brew install reattach-to-user-namespace
 * brew install gawk
 #### install oh-my-zsh and configure
