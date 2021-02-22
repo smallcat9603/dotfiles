@@ -28,3 +28,6 @@ This repo contains my personal **windows** system setups and settings.
 * 136.187.97.246 huyao
 * koto2.goto.info.waseda.ac.jp huyao
 * Gnuplot: http://www.gnuplot.info/
+### Game
+* Microsoft Visual C++ 2015 Redistributable (x64)
+* DirectX
