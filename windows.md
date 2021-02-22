@@ -27,3 +27,4 @@ This repo contains my personal **windows** system setups and settings.
 * WinSCP: https://sourceforge.net/projects/winscp/
 * 136.187.97.246 huyao
 * koto2.goto.info.waseda.ac.jp huyao
+* Gnuplot: http://www.gnuplot.info/
