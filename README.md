@@ -38,6 +38,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * brew install rmtrash **(Error: No similarly named formulae found.)**
 * brew install reattach-to-user-namespace
 * brew install gawk
+* brew install gnuplot
 #### install oh-my-zsh and configure
 * sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 *or*
