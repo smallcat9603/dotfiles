@@ -9,6 +9,7 @@ This repo contains my personal **windows** system setups and settings.
 * MEGA: https://mega.nz
 * Notepad++: https://notepad-plus-plus.org/ (ComparePlugin)
 * WinRAR: http://www.winrar.com.cn/
+* BitComet: https://www.bitcomet.com/en
 ### Development
 * GitHub Desktop: https://desktop.github.com/
 * Visual Studio Code: https://code.visualstudio.com/download 
