@@ -11,3 +11,4 @@ This repo contains my personal installed extensions in **vscode**.
 * Bracket Pair Colorizer 2
 * Prettier - Code formatter
 * Gnuplot Preview
+* LTeX
