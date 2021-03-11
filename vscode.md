@@ -12,3 +12,4 @@ This repo contains my personal installed extensions in **vscode**.
 * Prettier - Code formatter
 * Gnuplot Preview
 * LTeX
+* Markdown PDF
