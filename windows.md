@@ -15,6 +15,7 @@ This repo contains my personal **windows** system setups and settings.
 * Visual Studio Code: https://code.visualstudio.com/download 
 * Ubuntu subsystem: Microsoft Store
 * cmder: http://cmder.net/
+** Settings --> Startup --> Command line: %windir%\System32\bash.exe ~ -cur_console:p1
 * Java SDK: http://www.oracle.com/technetwork/java/javase/downloads/
 * JAVA_HOME: C:\Program Files\Java\jdk1.8.0_60
 * PATH: %JAVA_HOME%\bin
