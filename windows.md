@@ -17,7 +17,7 @@ This repo contains my personal **windows** system setups and settings.
 * cmder: http://cmder.net/
 * Settings --> Startup --> Command line: %windir%\System32\bash.exe ~ -cur_console:p1
 * Java SDK: http://www.oracle.com/technetwork/java/javase/downloads/
-* JAVA_HOME: C:\Program Files\Java\jdk1.8.0_60
+* JAVA_HOME: C:\Program Files\Java\jdk-16.0.1
 * PATH: %JAVA_HOME%\bin
 * Eclipse: https://www.eclipse.org/downloads/
 * Docker: https://store.docker.com/editions/community/docker-ce-desktop-windows (for win10 pro)
