@@ -44,6 +44,7 @@ pip3 install networkx
 apt install curl
 apt install iproute2
 apt install ruby
+apt install metis
 ```
 
 # settings
