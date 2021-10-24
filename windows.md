@@ -33,3 +33,4 @@ This repo contains my personal **windows** system setups and settings.
 ### Game
 * Microsoft Visual C++ 2015 Redistributable (x64)
 * DirectX
+* eGPU: https://www.nvidia.com/Download/driverResults.aspx/181096/en-us
