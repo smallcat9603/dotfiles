@@ -24,6 +24,7 @@ apt install libevent-dev
 apt install libunwind-dev
 apt install libdw-dev
 apt install libboost-context-dev
+apt install libatlas-base-dev
 apt install doxygen
 apt install pajeng
 apt install vite
