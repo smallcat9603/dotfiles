@@ -49,6 +49,7 @@ apt install curl
 apt install iproute2
 apt install ruby
 apt install metis
+apt install gnuplot
 ```
 
 # settings
