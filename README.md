@@ -35,7 +35,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * brew install macvim
 * brew install node
 * brew install cmake
-* brew install rmtrash **(Error: No similarly named formulae found.)**
+* ~~brew install rmtrash **(Error: No similarly named formulae found.)**~~
 * brew install reattach-to-user-namespace
 * brew install gawk
 * brew install gnuplot
