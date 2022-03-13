@@ -31,7 +31,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * brew install pdf2htmlex
 * brew install tree
 * brew install wget
-* brew install tmux
+* ~~brew install tmux~~
 * brew install macvim
 * brew install node
 * brew install cmake
@@ -39,14 +39,14 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * brew install reattach-to-user-namespace
 * brew install gawk
 * brew install gnuplot
-#### install oh-my-zsh and configure
+#### ~~install oh-my-zsh and configure~~
 * sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 *or*
 * sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 * [zshrc.conf](https://github.com/smallcat9603/dotfiles/tree/master/zsh) replaces ~/.zshrc (`cp ~/.zshrc ~/.zshrc.bak; cp zsh/zshrc.conf ~/.zshrc`)
 * [smallcat.zsh-theme](https://github.com/smallcat9603/dotfiles/tree/master/zsh) put into ~/.oh-my-zsh/themes/ (`cp zsh/smallcat.zsh-theme ~/.oh-my-zsh/themes/`)
 * source ~/.zshrc (Make sure that `export PATH=$PATH:/opt/homebrew/bin` is run before loading **plugins** in ~/.zshrc. Also copy others like Anaconda in ~/.zshrc.pre-oh-my-zsh to the new ~/.zshrc.)
-#### configure tmux
+#### ~~configure tmux~~
 * cd
 * git clone https://github.com/gpakosz/.tmux.git
 * ln -s -f .tmux/.tmux.conf
