@@ -58,6 +58,7 @@ chmod u+w /etc/sudoers
 vim /etc/sudoers (add smallcat ALL=(ALL:ALL) ALL)
 vim /etc/passwd (/bin/sh --> /bin/bash)
 chmod 600 ~/.ssh/id_rsa
+ssh-add (register ~/.ssh/id_rsa to avoid type passphrase for each ssh connection)
 vim /etc/hosts (add 136.187.97.246 gate)
 ```
 
