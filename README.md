@@ -23,7 +23,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Anaconda: https://www.anaconda.com/products/individual
 * Amphetamine: AppStore
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
-# VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
+* VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
 ### Environment
 * brew: https://brew.sh (add `export PATH=$PATH:/opt/homebrew/bin` to ~/.zshrc, and `source ~/.zshrc`)
 * ~~brew tap homebrew/science~~
