@@ -2,6 +2,7 @@
 This repo contains my personal **macOS** system dotfiles and settings. 
 ## Softwares
 ### General
+* Synology Drive: https://www.synology.com/ja-jp/dsm/feature/drive
 * Dropbox: https://www.dropbox.com/install
 * Google Drive: https://www.google.com/intl/ja_ALL/drive/
 * OneDrive: https://account.microsoft.com/services/ or AppStore
