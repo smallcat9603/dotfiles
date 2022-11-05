@@ -11,6 +11,8 @@ This repo contains my personal **windows** system setups and settings.
 * Notepad++: https://notepad-plus-plus.org/ (ComparePlugin)
 * WinRAR: http://www.winrar.com.cn/
 * BitComet: https://www.bitcomet.com/en
+* Notion: https://www.notion.so/ja-jp/desktop
+* Slack: https://slack.com/intl/ja-jp/downloads/windows
 ### Development
 * GitHub Desktop: https://desktop.github.com/
 * Visual Studio Code: https://code.visualstudio.com/download 
