@@ -12,6 +12,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * QQ: AppStore
 * WeChat: AppStore
 * Skype: AppStore
+* Slack: AppStore
 ### Development
 * iTerm2: https://www.iterm2.com
 * Sublime Text: https://www.sublimetext.com/
@@ -25,6 +26,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Amphetamine: AppStore
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
+* Notion: https://www.notion.so/ja-jp/desktop
 ### Environment
 * brew: https://brew.sh (add `export PATH=$PATH:/opt/homebrew/bin` to ~/.zshrc, and `source ~/.zshrc`)
 * ~~brew tap homebrew/science~~
