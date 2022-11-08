@@ -42,6 +42,7 @@ Rscript -e "library(devtools); install_github('schnorr/pajengr');"
 apt install python3-pip
 pip3 install pandas
 pip3 install networkx
+pip3 install igraph
 pip3 install future
 pip3 install SQLAlchemy
 pip3 install fn
