@@ -46,6 +46,8 @@ pip3 install igraph
 pip3 install future
 pip3 install SQLAlchemy
 pip3 install fn
+pip3 install Cython
+pip3 install littleballoffur
 apt install curl
 apt install iproute2
 apt install ruby
