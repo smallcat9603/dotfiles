@@ -49,6 +49,7 @@ pip3 install fn
 pip3 install Cython
 pip3 install littleballoffur
 pip3 install graphdatascience
+pip3 install seaborn
 apt install curl
 apt install iproute2
 apt install ruby
