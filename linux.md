@@ -40,6 +40,7 @@ apt install bison
 apt install git
 Rscript -e "library(devtools); install_github('schnorr/pajengr');"
 apt install python3-pip
+apt install python3-testresources
 pip3 install pandas
 pip3 install networkx
 pip3 install igraph
@@ -50,6 +51,7 @@ pip3 install Cython
 pip3 install littleballoffur
 pip3 install graphdatascience
 pip3 install seaborn
+pip3 install py2neo
 apt install curl
 apt install iproute2
 apt install ruby
