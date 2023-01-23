@@ -57,6 +57,7 @@ apt install iproute2
 apt install ruby
 apt install metis
 apt install gnuplot
+apt install slapd
 ```
 
 # settings
