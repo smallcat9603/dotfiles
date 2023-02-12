@@ -75,7 +75,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * FileZilla: https://filezilla-project.org/index.php
 * Disk Speed Test: AppStore
 * BitTorrent: https://www.bittorrent.com/lang/ja/bittorrent-free
-* Bartender 4: https://www.macbartender.com/
+* ~~Bartender 4: https://www.macbartender.com/~~
+* Hidden Bar: AppStore
 * iMobie M1 App Checker: https://www.imobie.jp/m1-app-checker/
 * Text Scanner: AppStore
 ### Office
