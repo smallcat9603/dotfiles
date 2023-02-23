@@ -52,6 +52,8 @@ pip3 install littleballoffur
 pip3 install graphdatascience
 pip3 install seaborn
 pip3 install py2neo
+pip3 install pyspark
+pip3 install scikit-learn
 apt install curl
 apt install iproute2
 apt install ruby
