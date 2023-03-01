@@ -43,6 +43,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * brew install reattach-to-user-namespace
 * brew install gawk
 * brew install gnuplot
+* brew install graphviz
 #### ~~install oh-my-zsh and configure~~
 * sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 *or*
