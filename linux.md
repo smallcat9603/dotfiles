@@ -61,6 +61,8 @@ apt install metis
 apt install gnuplot
 apt install slapd
 apt install putty-tools
+apt install graphviz
+
 ```
 
 # settings
