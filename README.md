@@ -26,7 +26,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Amphetamine: AppStore
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
-* Notion: https://www.notion.so/ja-jp/desktop
+* Neo4j Desktop: https://neo4j.com/download/
 ### Environment
 * brew: https://brew.sh (add `export PATH=$PATH:/opt/homebrew/bin` to ~/.zshrc, and `source ~/.zshrc`)
 * ~~brew tap homebrew/science~~
@@ -62,6 +62,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Beyond Compare: https://www.scootersoftware.com/
 * Grammarly: https://www.grammarly.com/native/mac
 * Eudict: http://www.eudic.net/eudic/mac_dictionary.aspx
+* Notion: https://www.notion.so/ja-jp/desktop
 ### Utils
 * The Unarchiver: AppStore
 * Wunderlist: AppStore
