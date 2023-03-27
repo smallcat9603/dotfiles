@@ -54,6 +54,11 @@ pip3 install seaborn
 pip3 install py2neo
 pip3 install pyspark
 pip3 install scikit-learn
+pip3 install imgbbpy
+pip3 install slackweb
+pip3 install google-auth-oauthlib
+pip3 install google-api-python-client
+pip3 install metis
 apt install curl
 apt install iproute2
 apt install ruby
