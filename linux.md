@@ -60,6 +60,7 @@ pip3 install google-auth-oauthlib
 pip3 install google-api-python-client
 pip3 install metis
 pip3 install mpi4py
+pip3 install pyro4
 apt install curl
 apt install iproute2
 apt install ruby
