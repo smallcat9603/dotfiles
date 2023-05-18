@@ -61,6 +61,7 @@ pip3 install google-api-python-client
 pip3 install metis
 pip3 install mpi4py
 pip3 install pyro5
+pip3 install memory_profiler
 apt install curl
 apt install iproute2
 apt install ruby
