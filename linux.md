@@ -70,7 +70,8 @@ apt install gnuplot
 apt install slapd
 apt install putty-tools
 apt install graphviz
-
+apt install gpg
+apt install wget
 ```
 
 # settings
