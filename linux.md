@@ -72,6 +72,7 @@ apt install putty-tools
 apt install graphviz
 apt install gpg
 apt install wget
+apt install strace
 ```
 
 # settings
