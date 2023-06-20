@@ -73,6 +73,7 @@ apt install graphviz
 apt install gpg
 apt install wget
 apt install strace
+apt install sysstat
 ```
 
 # settings
