@@ -13,6 +13,7 @@ This repo contains my personal **windows** system setups and settings.
 * BitComet: https://www.bitcomet.com/en
 * Notion: https://www.notion.so/ja-jp/desktop
 * Slack: https://slack.com/intl/ja-jp/downloads/windows
+* Discord: https://discord.com/download
 ### Development
 * GitHub Desktop: https://desktop.github.com/
 * Visual Studio Code: https://code.visualstudio.com/download 
