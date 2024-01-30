@@ -13,6 +13,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * WeChat: AppStore
 * Skype: AppStore
 * Slack: AppStore
+* Discord: https://discord.com/download
 ### Development
 * iTerm2: https://www.iterm2.com
 * Sublime Text: https://www.sublimetext.com/
