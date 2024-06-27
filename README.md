@@ -82,6 +82,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Hidden Bar: AppStore
 * iMobie M1 App Checker: https://www.imobie.jp/m1-app-checker/
 * Text Scanner: AppStore
+* ChatGPT: https://openai.com/chatgpt/mac/
 ### Office
 * https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
 ### Photo/Video
