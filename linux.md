@@ -64,6 +64,8 @@ pip3 install pyro5
 pip3 install memory_profiler
 pip3 install torch
 pip3 install node2vec
+pip3 install plotly
+pip3 install matplotlib
 apt install curl
 apt install iproute2
 apt install ruby
