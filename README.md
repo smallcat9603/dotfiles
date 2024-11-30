@@ -23,7 +23,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * VSCode: https://code.visualstudio.com
 * Dash: https://kapeli.com/dash
 * Docker: https://store.docker.com/editions/community/docker-ce-desktop-mac
-* Anaconda: https://www.anaconda.com/products/individual
+* ~~Anaconda: https://www.anaconda.com/products/individual~~
 * Amphetamine: AppStore
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
