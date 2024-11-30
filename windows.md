@@ -26,7 +26,7 @@ This repo contains my personal **windows** system setups and settings.
 * Eclipse: https://www.eclipse.org/downloads/
 * Docker: https://store.docker.com/editions/community/docker-ce-desktop-windows (for win10 pro and win10 home with WSL 2)
 * ~~Docker Toolbox: https://docs.docker.com/toolbox/overview/ (for win10 home)~~
-* Anaconda: https://www.anaconda.com/products/individual (add to Path, e.g., C:\Users\PC\anaconda3, C:\Users\PC\anaconda3\Scripts, C:\Users\PC\anaconda3\Library\bin)
+* ~~Anaconda: https://www.anaconda.com/products/individual (add to Path, e.g., C:\Users\PC\anaconda3, C:\Users\PC\anaconda3\Scripts, C:\Users\PC\anaconda3\Library\bin)~~
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
 ### Research
 * Mendeley: https://www.mendeley.com/download-desktop/
