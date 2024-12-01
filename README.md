@@ -31,6 +31,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 ### Environment
 * brew: https://brew.sh (add `export PATH=$PATH:/opt/homebrew/bin` to ~/.zshrc, and `source ~/.zshrc`)
 * ~~brew tap homebrew/science~~
+* brew update // upgrade brew itself
+* brew upgrade // upgrade softwares including python
 * brew install youtube-dl
 * ~~brew install pandoc **(Error: pandoc: no bottle available!)**~~
 * brew install pdf2htmlex
