@@ -29,7 +29,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
 * Neo4j Desktop: https://neo4j.com/download/
 ### Environment
-* brew: https://brew.sh (add `export PATH=$PATH:/opt/homebrew/bin` to ~/.zshrc, and `source ~/.zshrc`)
+* brew: https://brew.sh (add `export PATH=/opt/homebrew/bin:$PATH` to ~/.zshrc, and `source ~/.zshrc`)
 * ~~brew tap homebrew/science~~
 * brew update // upgrade brew itself
 * brew upgrade // upgrade softwares including python
