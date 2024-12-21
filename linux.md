@@ -90,4 +90,10 @@ ssh-add (register ~/.ssh/id_rsa to avoid type passphrase for each ssh connection
 vim /etc/hosts (add 136.187.97.246 gate)
 ```
 
+# /etc/hosts
+```bash
+192.168.3.13    raspberrypi
+192.168.3.69    raspberrypi2
+192.168.3.80    raspberrypi3
+```
 
