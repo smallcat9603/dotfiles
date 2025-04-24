@@ -18,11 +18,12 @@ This repo contains my personal **windows** system setups and settings.
 * GitHub Desktop: https://desktop.github.com/
 * Visual Studio Code: https://code.visualstudio.com/download 
 * Ubuntu subsystem: Microsoft Store
+  * enable windows subsystem for linux
 * cmder: http://cmder.net/
-* Settings --> Startup --> Command line: %windir%\System32\bash.exe ~ -cur_console:p1
+  * Settings --> Startup --> Command line: %windir%\System32\bash.exe ~ -cur_console:p1
 * Java SDK: http://www.oracle.com/technetwork/java/javase/downloads/
-* JAVA_HOME: C:\Program Files\Java\jdk-16.0.1
-* PATH: %JAVA_HOME%\bin
+  * JAVA_HOME: C:\Program Files\Java\jdk-16.0.1
+  * PATH: %JAVA_HOME%\bin
 * Eclipse: https://www.eclipse.org/downloads/
 * Docker: https://store.docker.com/editions/community/docker-ce-desktop-windows (for win10 pro and win10 home with WSL 2)
 * ~~Docker Toolbox: https://docs.docker.com/toolbox/overview/ (for win10 home)~~
@@ -33,8 +34,9 @@ This repo contains my personal **windows** system setups and settings.
 * TeX Live: http://tug.org/texlive/
 * TeXstudio: http://texstudio.sourceforge.net/
 * WinSCP: https://sourceforge.net/projects/winscp/
-* 136.187.97.246 huyao
-* koto2.goto.info.waseda.ac.jp huyao
+  * ~~136.187.97.246 huyao~~
+  * ~~koto2.goto.info.waseda.ac.jp huyao~~
+  * wisteria.cc.u-tokyo.ac.jp z30130
 * Gnuplot: http://www.gnuplot.info/
 ### Game
 * Microsoft Visual C++ 2015 Redistributable (x64)
