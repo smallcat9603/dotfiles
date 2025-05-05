@@ -19,6 +19,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * ~~Sublime Text: https://www.sublimetext.com/~~
 * ~~Eclipse: https://www.eclipse.org/~~
 * ~~SourceTree: https://www.sourcetreeapp.com~~
+* Warp: https://www.warp.dev/
 * GitHub Desktop: https://desktop.github.com/
 * VSCode: https://code.visualstudio.com
 * ~~Dash: https://kapeli.com/dash~~
