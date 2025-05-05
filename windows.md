@@ -21,6 +21,7 @@ This repo contains my personal **windows** system setups and settings.
   * enable windows subsystem for linux
 * cmder: http://cmder.net/
   * Settings --> Startup --> Command line: %windir%\System32\bash.exe ~ -cur_console:p1
+* Warp: https://www.warp.dev/
 * Java SDK: http://www.oracle.com/technetwork/java/javase/downloads/
   * JAVA_HOME: C:\Program Files\Java\jdk-16.0.1
   * PATH: %JAVA_HOME%\bin
