@@ -31,6 +31,7 @@ This repo contains my personal **windows** system setups and settings.
 * ~~Docker Toolbox: https://docs.docker.com/toolbox/overview/ (for win10 home)~~
 * ~~Anaconda: https://www.anaconda.com/products/individual (add to Path, e.g., C:\Users\PC\anaconda3, C:\Users\PC\anaconda3\Scripts, C:\Users\PC\anaconda3\Library\bin)~~
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
+* Neo4j Desktop: https://neo4j.com/download/
 ### Research
 * Mendeley: https://www.mendeley.com/download-desktop/
 * TeX Live: http://tug.org/texlive/
