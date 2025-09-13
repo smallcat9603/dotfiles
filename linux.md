@@ -66,6 +66,7 @@ pip3 install torch
 pip3 install node2vec
 pip3 install plotly
 pip3 install matplotlib
+pip3 install whisperlivekit
 apt install curl
 apt install iproute2
 apt install ruby
@@ -78,6 +79,7 @@ apt install gpg
 apt install wget
 apt install strace
 apt install sysstat
+apt install ffmpeg
 ```
 
 # settings
