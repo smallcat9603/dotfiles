@@ -80,6 +80,7 @@ apt install wget
 apt install strace
 apt install sysstat
 apt install ffmpeg
+apt install npm
 ```
 
 # settings
