@@ -90,6 +90,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Text Scanner: AppStore
 * ChatGPT: https://openai.com/chatgpt/mac/
 * Zoom: https://zoom.us/download?os=mac
+* AINOTE: https://iflytek.co.jp/pages/download
 ### Office
 * https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
 ### Photo/Video
