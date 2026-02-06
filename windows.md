@@ -15,6 +15,7 @@ This repo contains my personal **windows** system setups and settings.
 * Slack: https://slack.com/intl/ja-jp/downloads/windows
 * Discord: https://discord.com/download
 * Amphetamine: https://apps.microsoft.com/detail/9nblggh4whsp?hl=ja-JP&gl=US
+* AINOTE: https://iflytek.co.jp/pages/download
 ### Development
 * GitHub Desktop: https://desktop.github.com/
 * Visual Studio Code: https://code.visualstudio.com/download 
