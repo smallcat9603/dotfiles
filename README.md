@@ -29,6 +29,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
 * Neo4j Desktop: https://neo4j.com/download/
+* Codex: https://openai.com/ja-JP/codex/
+* Claude: https://claude.ai/
 ### Environment
 * brew: https://brew.sh (add `export PATH=/opt/homebrew/bin:$PATH` to ~/.zshrc, and `source ~/.zshrc`)
 * ~~brew tap homebrew/science~~
