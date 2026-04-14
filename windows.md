@@ -34,6 +34,8 @@ This repo contains my personal **windows** system setups and settings.
 * ~~Anaconda: https://www.anaconda.com/products/individual (add to Path, e.g., C:\Users\PC\anaconda3, C:\Users\PC\anaconda3\Scripts, C:\Users\PC\anaconda3\Library\bin)~~
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
 * Neo4j Desktop: https://neo4j.com/download/
+* Codex: https://openai.com/ja-JP/codex/
+* Claude: https://claude.ai/
 ### Research
 * Mendeley: https://www.mendeley.com/download-desktop/
 * TeX Live: http://tug.org/texlive/
