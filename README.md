@@ -29,6 +29,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
 * Neo4j Desktop: https://neo4j.com/download/
+* Gemini: https://gemini.google/mac/
 * Codex: https://openai.com/ja-JP/codex/
 * Claude: https://claude.ai/
 ### Environment
