@@ -11,7 +11,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 ### IM
 * QQ: AppStore
 * WeChat: AppStore
-* Skype: https://www.skype.com/en/get-skype/download-skype-for-desktop/
+* ~~Skype: https://www.skype.com/en/get-skype/download-skype-for-desktop/~~
 * Slack: AppStore
 * Discord: https://discord.com/download
 ### Development
