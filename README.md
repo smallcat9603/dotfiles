@@ -28,6 +28,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Amphetamine: AppStore
 * Java SE Development Kit: https://www.oracle.com/java/technologies/javase-downloads.html
 * VNC Viewer: https://www.realvnc.com/en/connect/download/viewer/
+* FileZilla: https://filezilla-project.org/index.php
 * Neo4j Desktop: https://neo4j.com/download/
 * Gemini: https://gemini.google/mac/
 * Codex: https://openai.com/ja-JP/codex/
@@ -84,7 +85,6 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * ~~Sparkle: AppStore~~
 * ~~Alfred: https://www.alfredapp.com~~
 * ~~Parallel Desktop 13.3: http://macdrug.com/download-mac-parallels-desktop-11-full-version-free1/~~
-* FileZilla: https://filezilla-project.org/index.php
 * Disk Speed Test: AppStore
 * BitTorrent: https://www.bittorrent.com/lang/ja/bittorrent-free
 * ~~Bartender 4: https://www.macbartender.com/~~
