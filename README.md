@@ -95,7 +95,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * AINOTE: https://iflytek.co.jp/pages/download
 ### Office
 * ~~https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ~~
-* https://m365.cloud.microsoft/apps/?auth=2&redirfrom=CsrToSSR
+* Install: https://m365.cloud.microsoft/apps/?auth=2&redirfrom=CsrToSSR
+* Sign-in: https://utelecon.adm.u-tokyo.ac.jp/microsoft/install/#install
 ### Photo/Video
 * Lightroom: ~~https://www.youtube.com/watch?v=et9WOAdVvco&t=47s~~
 * Photoshop: ~~https://www.youtube.com/watch?v=VjGQ3-5Kork~~
