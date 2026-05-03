@@ -71,15 +71,14 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * ~~Typora: https://typora.io~~
 * MacTeX: http://tug.org/mactex/mactex-download.html
 * Mendeley: https://www.mendeley.com/download-mendeley-desktop/
-* Beyond Compare: https://www.scootersoftware.com/
+* Beyond Compare: https://xclient.info/s/beyond-compare.html
 * ~~Grammarly: https://www.grammarly.com/native/mac~~
 * Eudict: http://www.eudic.net/eudic/mac_dictionary.aspx
 * Notion: https://www.notion.so/ja-jp/desktop
 ### Utils
 * ~~The Unarchiver: AppStore~~
 * ~~Wunderlist: AppStore~~
-* iStatu Menu 6: https://bjango.com/mac/istatmenus/
-(Email: 982092332@qq.com SN: GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TGH3S-8SGA)
+* iStatu Menu 6: https://xclient.info/s/istat-menus-for-mac.html
 * ~~LICEcap: https://www.cockos.com/licecap/~~
 * ~~Snip: AppStore~~
 * ~~Sparkle: AppStore~~
