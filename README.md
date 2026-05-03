@@ -88,13 +88,13 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * BitTorrent: https://www.bittorrent.com/lang/ja/bittorrent-free
 * ~~Bartender 4: https://www.macbartender.com/~~
 * Hidden Bar: AppStore
-* iMobie M1 App Checker: https://www.imobie.jp/m1-app-checker/
-* Text Scanner: AppStore
+* ~~iMobie M1 App Checker: https://www.imobie.jp/m1-app-checker/~~
+* ~~Text Scanner: AppStore~~
 * ChatGPT: https://openai.com/chatgpt/mac/
 * Zoom: https://zoom.us/download?os=mac
 * AINOTE: https://iflytek.co.jp/pages/download
 ### Office
-* https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ
+* ~~https://www.youtube.com/watch?annotation_id=annotation_723152549&feature=iv&src_vid=G5wmKxP4R_s&v=iiTMOtzXtMQ~~
 ### Photo/Video
 * Lightroom: https://www.youtube.com/watch?v=et9WOAdVvco&t=47s
 * Photoshop: https://www.youtube.com/watch?v=VjGQ3-5Kork
