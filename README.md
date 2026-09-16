@@ -80,7 +80,8 @@ This repo contains my personal **macOS** system dotfiles and settings.
 ### Utils
 * ~~The Unarchiver: AppStore~~
 * ~~Wunderlist: AppStore~~
-* iStatu Menu 6: https://xclient.info/s/istat-menus-for-mac.html
+* ~~iStatu Menu 6: https://xclient.info/s/istat-menus-for-mac.html~~
+* Stats: AppStore
 * ~~LICEcap: https://www.cockos.com/licecap/~~
 * ~~Snip: AppStore~~
 * ~~Sparkle: AppStore~~
@@ -89,7 +90,7 @@ This repo contains my personal **macOS** system dotfiles and settings.
 * Disk Speed Test: AppStore
 * BitTorrent: https://www.bittorrent.com/lang/ja/bittorrent-free
 * ~~Bartender 4: https://www.macbartender.com/~~
-* Hidden Bar: AppStore
+* ~~Hidden Bar: AppStore~~
 * ~~iMobie M1 App Checker: https://www.imobie.jp/m1-app-checker/~~
 * ~~Text Scanner: AppStore~~
 * ChatGPT: https://openai.com/chatgpt/mac/
