@@ -96,3 +96,40 @@ img[alt~="center"] {
 code {
   font-family: 'Source Code Pro', monospace;
 }
+/* ---- 2026-10 layout defaults (moved from per-deck style blocks) ---- */
+section {
+  font-size: 26px;
+}
+section table {
+  font-size: 20px;
+}
+section ul {
+  margin-top: 2px;
+  margin-bottom: 6px;
+}
+section.lead h1 {
+  font-size: 44px;
+}
+
+/* inline code: light gray background, dark text */
+section :not(pre) > code {
+  background: #e6e6e6;
+  color: #222;
+}
+
+/* code blocks: light gray background, light-theme syntax colors */
+section pre {
+  margin: 6px 0 4px 0;
+  background: #f2f2f2;
+  border: 1px solid #d0d0d0;
+}
+section pre code {
+  font-size: 22px;
+  background: #f2f2f2;
+  color: #222;
+}
+section pre .hljs-comment { color: #6a737d; }
+section pre .hljs-string { color: #067d17; }
+section pre .hljs-keyword, section pre .hljs-built_in { color: #0033b3; }
+section pre .hljs-number, section pre .hljs-literal { color: #1750eb; }
+section pre .hljs-variable, section pre .hljs-title, section pre .hljs-meta { color: #871094; }
