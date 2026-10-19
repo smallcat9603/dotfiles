@@ -133,3 +133,11 @@ section pre .hljs-string { color: #067d17; }
 section pre .hljs-keyword, section pre .hljs-built_in { color: #0033b3; }
 section pre .hljs-number, section pre .hljs-literal { color: #1750eb; }
 section pre .hljs-variable, section pre .hljs-title, section pre .hljs-meta { color: #871094; }
+
+/* tables: slightly larger inline code and roomier cells */
+section table code {
+  font-size: 0.9em;
+}
+section table td, section table th {
+  padding: 0.25em 0.5em;
+}
