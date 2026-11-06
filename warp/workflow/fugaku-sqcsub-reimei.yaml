@@ -1,0 +1,31 @@
+---
+name: "Fugaku: sqcsub (Reimei / QTM)"
+command: "sqcsub --nqubits {{nqubits}} --nshots {{nshots}} --ifile {{ifile}} --iformat qasm --ofile {{ofile}} --oformat raw --qpu {{qpu}}"
+description: >-
+  QASM 回路を Reimei（Quantinuum）またはそのシミュレータに sqcsub で投入し、結果を raw 形式で保存する。
+  事前に「Fugaku: Setup」を同じ qpu で実行しておくこと。
+tags: ["jhpcq", "quantum", "fugaku", "reimei", "quantinuum"]
+arguments:
+  - name: nqubits
+    arg_type: Text
+    description: 量子ビット数
+    default_value: "10"
+  - name: nshots
+    arg_type: Text
+    description: ショット数
+    default_value: "30"
+  - name: ifile
+    arg_type: Text
+    description: 入力 QASM ファイル
+    default_value: simple.qasm
+  - name: ofile
+    arg_type: Text
+    description: 出力ファイル
+    default_value: result.txt
+  - name: qpu
+    arg_type: Enum
+    enum_name: Reimei QPU
+    enum_variants: ["reimei-simulator", "reimei"]
+    description: "接続先 QPU：reimei-simulator（シミュレータ）/ reimei（実機）"
+    default_value: reimei-simulator
+shells: []

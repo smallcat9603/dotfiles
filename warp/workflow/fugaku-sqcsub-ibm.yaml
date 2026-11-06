@@ -1,0 +1,25 @@
+---
+name: "Fugaku: sqcsub (IBM)"
+command: "sqcsub --nqubits {{nqubits}} --nshots {{nshots}} --ifile {{ifile}} --iformat qasm --ofile {{ofile}} --oformat raw --qpu ibm-kobe-dacc"
+description: >-
+  QASM 回路を IBM（ibm-kobe-dacc）に sqcsub で投入し、結果を raw 形式で保存する。
+  事前に「Fugaku: Setup」を qpu=ibm-kobe-dacc で実行しておくこと。
+tags: ["jhpcq", "quantum", "fugaku", "ibm"]
+arguments:
+  - name: nqubits
+    arg_type: Text
+    description: 量子ビット数
+    default_value: "10"
+  - name: nshots
+    arg_type: Text
+    description: ショット数
+    default_value: "30"
+  - name: ifile
+    arg_type: Text
+    description: 入力 QASM ファイル
+    default_value: simple3.qasm
+  - name: ofile
+    arg_type: Text
+    description: 出力ファイル
+    default_value: result.txt
+shells: []

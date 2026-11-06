@@ -1,0 +1,21 @@
+---
+name: "SSH: mdx (VPN)"
+command: "ssh qii-kawasaki-miyabi-{{node}}.cspp.cc.u-tokyo.ac.jp -l {{username}} -i ~/.ssh/id_rsa_hu -o ServerAliveInterval=60"
+description: >-
+  mdx の serv / cli ノードに SSH 接続する。
+  VPN 接続が必要。WSL2 からは接続不可。
+tags: ["ssh", "hpc", "mdx"]
+arguments:
+  - name: node
+    arg_type: Enum
+    enum_name: mdx node
+    enum_variants: ["cli", "serv"]
+    description: ノード種別
+    default_value: cli
+  - name: username
+    arg_type: Enum
+    enum_name: mdx user
+    enum_variants: ["q25033", "z30130"]
+    description: ユーザー名
+    default_value: q25033
+shells: []

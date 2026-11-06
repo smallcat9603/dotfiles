@@ -1,0 +1,11 @@
+---
+name: "SSH: Fugaku"
+command: "ssh login.fugaku.r-ccs.riken.jp -l {{username}} -i ~/.ssh/id_rsa_hu"
+description: 富岳（理研 R-CCS）のログインノードに SSH 接続する。
+tags: ["ssh", "hpc", "fugaku"]
+arguments:
+  - name: username
+    arg_type: Text
+    description: ユーザー名
+    default_value: u14116
+shells: []

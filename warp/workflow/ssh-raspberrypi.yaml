@@ -1,0 +1,13 @@
+---
+name: "SSH: Raspberry Pi"
+command: "ssh raspberrypi{{n}} -l smallcat -i ~/.ssh/id_rsa"
+description: 自宅の Raspberry Pi（raspberrypi1〜3）に SSH 接続する。
+tags: ["ssh", "raspberrypi"]
+arguments:
+  - name: n
+    arg_type: Enum
+    enum_name: Raspberry Pi number
+    enum_variants: ["1", "2", "3"]
+    description: 番号
+    default_value: "1"
+shells: []

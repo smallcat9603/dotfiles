@@ -1,0 +1,19 @@
+---
+name: "SSH: Miyabi (G/C)"
+command: "ssh miyabi-{{node}}.jcahpc.jp -l {{username}} -i ~/.ssh/id_rsa_hu"
+description: Miyabi（JCAHPC）の Miyabi-G または Miyabi-C に SSH 接続する。
+tags: ["ssh", "hpc", "miyabi"]
+arguments:
+  - name: node
+    arg_type: Enum
+    enum_name: Miyabi node
+    enum_variants: ["c", "g"]
+    description: "c（Miyabi-C, CPU）/ g（Miyabi-G, GPU）"
+    default_value: c
+  - name: username
+    arg_type: Enum
+    enum_name: Miyabi user
+    enum_variants: ["q25033", "z30130", "z30131"]
+    description: ユーザー名
+    default_value: q25033
+shells: []

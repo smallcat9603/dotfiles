@@ -1,0 +1,21 @@
+---
+name: "Fugaku: Setup [old] (cert + env + JWT)"
+command: |-
+  . /vol0300/share/ra010014/jhpcq/x86/scripts/install-cert-files.sh {{qpu}} \
+    && source /vol0003/share/ra010014/jhpcq/bin/jhpc-q-setup.sh \
+    && fetch_qtm_jwt.py \
+    && mv "$HOME/.qtm.jwt" "$HOME/.sqc_rpc_sched/jwt.token" \
+    && . /vol0300/share/ra010014/jhpcq/x86/scripts/setenv-sqcsub.sh {{qpu}}
+description: >-
+  【旧方式・非推奨】現在は SSO 方式の「Fugaku: Setup」を使用すること。
+  富岳上で JHPC-Q 利用前の準備を一括実行：CA証明書インストール → 環境設定 →
+  JWT取得 → JWT配置 → sqcsub 環境設定。いずれかが失敗した時点で停止。
+tags: ["jhpcq", "quantum", "fugaku", "old"]
+arguments:
+  - name: qpu
+    arg_type: Enum
+    enum_name: JHPC-Q QPU
+    enum_variants: ["reimei-simulator", "reimei", "ibm-kobe-dacc"]
+    description: 接続先 QPU
+    default_value: reimei-simulator
+shells: ["bash", "zsh"]

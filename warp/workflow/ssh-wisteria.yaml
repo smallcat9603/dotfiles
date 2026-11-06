@@ -1,0 +1,13 @@
+---
+name: "SSH: Wisteria"
+command: "ssh wisteria.cc.u-tokyo.ac.jp -l {{username}} -i ~/.ssh/id_rsa_hu"
+description: Wisteria/BDEC-01（東大情報基盤センター）に SSH 接続する。
+tags: ["ssh", "hpc", "wisteria"]
+arguments:
+  - name: username
+    arg_type: Enum
+    enum_name: Wisteria user
+    enum_variants: ["z30130", "q25033", "z30131"]
+    description: ユーザー名
+    default_value: z30130
+shells: []

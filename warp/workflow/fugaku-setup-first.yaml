@@ -1,0 +1,18 @@
+---
+name: "Fugaku: Setup (first time)"
+command: |-
+  source /vol0300/share/ra010014/jhpcq/sqc-sso/20261019-1/x86_64/setenv.sh {{qpu}} \
+    && jhpcq-sqc-init \
+    && jhpcq-token login
+description: >-
+  富岳上で JHPC-Q（SSO 方式）を初めて使うときに一度だけ実行する：環境設定 → 初期化（jhpcq-sqc-init）→ トークン取得。
+  2回目以降は「Fugaku: Setup」を使用すること。
+tags: ["jhpcq", "quantum", "fugaku", "sso"]
+arguments:
+  - name: qpu
+    arg_type: Enum
+    enum_name: JHPC-Q QPU (SSO, first time)
+    enum_variants: ["ibm-kobe-dacc", "reimei-simulator", "reimei"]
+    description: 接続先 QPU
+    default_value: ibm-kobe-dacc
+shells: ["bash", "zsh"]
