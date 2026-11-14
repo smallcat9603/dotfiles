@@ -141,3 +141,97 @@ section table code {
 section table td, section table th {
   padding: 0.25em 0.5em;
 }
+
+/* ---- 2026-11 deck components (moved from a deck-level style block; colour rules in
+        ~/.claude/specs/REPORT.md section 3: maroon = header band and thin marks only,
+        dark #333 = table/card header rows, emphasis = bold, light fills only) ---- */
+
+/* tables: full width, dark header row, horizontal rules only, light-grey zebra.
+   Cell padding, line height and margins are left as they were, so row heights in existing
+   decks do not change; a deck that wants roomier rows sets them in its own style block. */
+section table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+section table tr {
+  background: transparent;
+}
+section table thead th {
+  background: #333;
+  color: #fff;
+  font-weight: 700;
+  border: 0;
+}
+section table td {
+  border: 0;
+  border-bottom: 1px solid #d5d5d5;
+  background: #fff;
+}
+section table tbody tr:nth-child(even) td {
+  background: #f4f5f6;
+}
+section table tbody tr:last-child td {
+  border-bottom: 2px solid #333;
+}
+section table td:first-child {
+  font-weight: 700;
+}
+
+/* key message: "#### text", one per slide, at the end.
+   ("> text" stays the small footnote defined above.) */
+section:not(.lead) h4 {
+  margin: 0.3em 0 0;
+  padding: 0.3em 0.8em;
+  border-left: 8px solid var(--color-highlight);
+  background: #f1f2f4;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #222;
+}
+section:not(.lead) h4 strong {
+  color: #111;
+  font-weight: 700;
+}
+
+/* cards: <!-- _class: cards --> shows a table as cards side by side.
+   Header row = card titles; the last body row (if there are two or more) = each card's closing line. */
+section.cards table {
+  border-collapse: separate;
+  border-spacing: 16px 0;
+  width: calc(100% + 32px);
+  margin: 0.2em -16px 0.6em;
+  table-layout: fixed;
+  font-size: 23px;
+  line-height: 1.6;
+}
+section.cards table thead th {
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+  font-size: 1.05em;
+  white-space: normal;
+}
+section.cards table tbody td,
+section.cards table tbody tr:nth-child(even) td {
+  background: #f7f7f8;
+  border: 1px solid #cfcfcf;
+  border-top: 0;
+  border-bottom: 0;
+  font-weight: 400;
+  white-space: normal;
+  vertical-align: top;
+  padding: 0.6em 0.8em 0.3em;
+}
+section.cards table tbody tr:last-child td {
+  border-bottom: 1px solid #cfcfcf;
+  border-radius: 0 0 8px 8px;
+  padding-bottom: 0.6em;
+}
+section.cards table tbody tr:last-child:not(:first-child) td {
+  background: #e6e8eb;
+  color: #111;
+  font-weight: 700;
+  padding-top: 0.45em;
+  padding-bottom: 0.45em;
+}
